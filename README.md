@@ -36,6 +36,8 @@ state-of-the-art methods file: includes code for gcmc, SGCN, SNEA, TDRC, SGNNMD 
 
 In addition, the code for these comparison experiments is executable, ensuring the transparency of the experiments.
 
+## Citation
+Xiaosong Wang, Ying Xiang, Tao Xu, Yujia Gao and Zhenyu Yue*, MDAGCN: predicting mutation-drug associations through signed graph convolutional networks via graph sampling, 2023, Submitted.
 
 ## Requirements
 
@@ -48,6 +50,6 @@ In addition, the code for these comparison experiments is executable, ensuring t
 
 ## Contact
 
-Please feel free to contact us if you need any help: xiaosongwang@ahau.edu.cn
+Please feel free to contact us if you need any help: zhenyuyue@ahau.edu.cn
 
 
